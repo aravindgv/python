@@ -9,8 +9,8 @@ class menu(object):
         print myitem
         return myitem
 
-    def getitem(self):
-        print myite
+    
+
 
 
 
@@ -18,5 +18,3 @@ class menu(object):
 
 mymenu=menu('idly',"50")
 mymenu.additem()
-#mymenu.getitem("idly")
-mymenu.getitem()
